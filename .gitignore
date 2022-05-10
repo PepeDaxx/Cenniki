@@ -1,0 +1,10 @@
+*.xlsx#
+*~
+__pycache__
+.DS_Store
+/static
+/build
+/cenniki
+/main
+main.spec
+*log.txt
